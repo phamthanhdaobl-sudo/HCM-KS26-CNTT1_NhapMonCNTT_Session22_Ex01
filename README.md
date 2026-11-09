@@ -29,6 +29,10 @@ site:ptit.edu.vn filetype:pdf "Nhập môn Công nghệ Thông tin" -tailieu.vn 
 | `-123doc.org` | Loại trừ website | Loại bỏ kết quả từ 123doc |
 
 ### 2.3. Lý do lựa chọn tên miền
+|TOÁN TỬ|CHỨC NĂNG|MỤC ĐÍCH
+|---|---|---|
+|SITE|GIOI|CHI|
+
 
 PTIT là tên viết tắt của Học viện Công nghệ Bưu chính Viễn thông. Việc sử dụng toán tử `site:ptit.edu.vn` giúp giới hạn kết quả trong phạm vi website của Học viện, tăng khả năng tìm được tài liệu có nguồn gốc chính thống.
 
@@ -78,19 +82,6 @@ Sau khi thực hiện tìm kiếm, tiến hành:
 3. Xác định tiêu đề và nội dung tài liệu.
 4. Chụp ảnh màn hình 3 kết quả đầu tiên.
 
-### Ảnh minh chứng
-
-**Chèn ảnh chụp màn hình Google tại đây.**
-
-Tên tệp đề xuất:
-
-`google-search-results.png`
-
-Thư mục lưu trữ:
-
-`images/google-search-results.png`
-
-*Lưu ý: Ảnh phải là kết quả tìm kiếm thực tế, không sử dụng ảnh minh họa thay thế.*
 
 ## 5. Cấu trúc repository GitHub
 
